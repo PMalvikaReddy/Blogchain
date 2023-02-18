@@ -29,3 +29,4 @@ The project creates an NFT using the cover image of the blog and encodes the blo
     
 
 - ### FVM -
+    Once the AI images are generated for the blog they are converted into NFTs. The images are encoded with the blog text and uploaded onto the nft.storage using the api. Once the NFT is minted using the smart contract based on FVM it generates an accessible link that is used to display the NFT on the website and the PUSh notification.
